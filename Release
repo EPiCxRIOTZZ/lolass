@@ -1,0 +1,8 @@
+Origin: Test Repo
+Label: Test Repo
+Suite: stable
+Version: 16.2
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Test Repo Description
